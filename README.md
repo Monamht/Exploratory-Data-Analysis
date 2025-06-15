@@ -1,5 +1,5 @@
 # Titanic Dataset Analysis & Visualization
-# OVERVIEW
+# Overview
 This project explores the Titanic dataset, using Python and visualization tools (Seaborn, Matplotlib) to uncover survival patterns, passenger demographics, and fare distributions.
 # Key Analyses
 1. Exploratory Data Analysis (EDA): Cleaning and preprocessing data.
@@ -82,3 +82,6 @@ Fare Impact: Expensive fares correlated with increased survival likelihood.
 Family Groups: Larger families faced survival disadvantages compared to solo travelers.
 
 Gender Trends: Female passengers had significantly better survival odds.
+
+# Contributor
+Name :- Monisha Mahato
